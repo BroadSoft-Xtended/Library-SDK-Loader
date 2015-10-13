@@ -1,0 +1,19 @@
+{
+  "name": "bdsft-sdk-loader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils.git",
+    "bdsft-sdk-factory": "BroadSoft-Xtended/Library-SDK-Factory.git"
+  },
+  "devDependencies": {
+    "mocha": "2.1.0",
+    "expect": "1.6.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
