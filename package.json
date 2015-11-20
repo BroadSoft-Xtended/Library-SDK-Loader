@@ -10,7 +10,8 @@
     "bdsft-sdk-factory": "BroadSoft-Xtended/Library-SDK-Factory.git",
     "bdsft-sdk-styles": "BroadSoft-Xtended/Library-SDK-Styles.git",
     "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils.git",
-    "deep-extend": "^0.4.0"
+    "deep-extend": "^0.4.0",
+    "domready": "^1.0.8"
   },
   "devDependencies": {
     "mocha": "2.1.0",
