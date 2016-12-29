@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bdsft-sdk-factory": "BroadSoft-Xtended/Library-SDK-Factory.git",
-    "bdsft-sdk-styles": "BroadSoft-Xtended/Library-SDK-Styles.git",
-    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils.git",
+    "bdsft-sdk-factory": "BroadSoft-Xtended/Library-SDK-Factory",
+    "bdsft-sdk-styles": "BroadSoft-Xtended/Library-SDK-Styles",
+    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils",
     "deep-extend": "^0.4.0",
     "domready": "^1.0.8"
   },
